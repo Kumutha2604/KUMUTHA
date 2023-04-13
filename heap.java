@@ -1,5 +1,5 @@
 import java.util.*;
-class hs1  
+class heap  
 {   
 static void heapify(int a[], int n, int i)  
 {  
